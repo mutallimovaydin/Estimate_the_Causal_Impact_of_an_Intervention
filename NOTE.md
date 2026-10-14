@@ -1,7 +1,5 @@
 # Estimate_the_Causal_Impact_of_an_Intervention
 
-# Proposition 99-un siqaret satışlarına təsiri: Sintetik Nəzarət Metodu
-
 ## 1. Seçdiyim metod və səbəbi
 
 **Metod:** Sintetik Nəzarət (Synthetic Control).
