@@ -1,1 +1,0 @@
-# Estimate_the_Causal_Impact_of_an_Intervention
